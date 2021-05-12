@@ -96,7 +96,7 @@ i:hover {
         width: 700px;
     }
 }
-@media (max-width: 720px) {
+@media (max-width: 750px) {
     /* For a screen < 720px, this CSS will be read */
     .container {
         width: 500px;
